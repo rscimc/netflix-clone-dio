@@ -7,10 +7,24 @@
   .botao {
     margin-top: 0.5rem;
     width: 80vw;
+    background-color: white;
+    color: black;
+  }
+
+  .filme-principal {
+    margin-bottom: 2rem;
   }
 
   .box-filme {
     opacity: 100%;
+  }
+
+  header nav a {
+    margin-right: 0.8rem;
+  }
+
+  .logado a {
+    display: none;
   }
 }
 
